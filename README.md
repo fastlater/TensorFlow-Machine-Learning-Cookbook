@@ -8,6 +8,19 @@ This guide starts with the fundamentals of the TensorFlow library which includes
 
 Once you are familiar and comfortable with the TensorFlow ecosystem, the last chapter will show you how to take it to production.
 
+## Table of Contents
+CH1.  Getting Started with TensorFlow
+CH2.  The TensorFlow Way
+CH3.  Linear Regression
+CH4.  Support Vector Machines
+CH5.  Nearest Neighbor Methods
+CH6.  Neural Networks
+CH7.  Natural Language Processing
+CH8.  Convolutional Neural Networks
+CH9.  Recurrent Neural Networks
+CH10. Taking TensorFlow to Production
+CH11. More with TensorFlow
+
 ## Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter 03.
 
